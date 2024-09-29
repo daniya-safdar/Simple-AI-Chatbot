@@ -87,7 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! If you have ideas or suggestions for improvements, feel free to open an issue or create a pull request.
-
----
-
-This `README.md` provides essential information for anyone interested in running or contributing to the project. Feel free to adjust sections to your needs!
