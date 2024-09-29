@@ -1,4 +1,4 @@
-# Quickstart Conversational Chatbot
+# Conversational Chatbot for Multi-language clients
 
 Imagine a world where language is no longer a barrier to accessing mental health support, where every immigrant can feel empowered and understood in their journey toward wellness. 
 We face a significant challenge: many immigrants struggle with the complexities of navigating mental health services, often hindered by language and cultural barriers. Our innovative AI chatbot is designed to bridge this gap, providing real-time translation support across multiple languages, making it easier for individuals to seek help without the fear of misunderstanding or stigma.
