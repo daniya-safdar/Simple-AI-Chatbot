@@ -67,7 +67,7 @@ The chatbot will wait for your input, and it will respond with short answers bas
 
 You can exit the chat by typing `exit` at any point.
 
-## Example Interaction
+## Example Interactions
 
 ```bash
 You: Hello, how are you?
@@ -78,6 +78,45 @@ Assistant: AI refers to the development of machines capable of performing tasks 
 
 You: exit
 Ending the chat. Goodbye!
+```
+
+### English
+
+```bash
+You: Hello, how are you?
+Assistant: I'm here to help. How can I assist you today?
+
+You: What is artificial intelligence?
+Assistant: Artificial intelligence refers to the simulation of human intelligence in machines.
+
+You: exit
+Ending the chat. Goodbye!
+```
+
+### Spanish
+
+```bash
+You: Hola, ¿cómo estás?
+Assistant: Estoy aquí para ayudar. ¿En qué te puedo asistir hoy?
+
+You: ¿Qué es la inteligencia artificial?
+Assistant: La inteligencia artificial se refiere a la simulación de la inteligencia humana en máquinas.
+
+You: exit
+Ending the chat. ¡Adiós!
+```
+
+### Arabic
+
+```bash
+You: مرحبًا، كيف حالك؟
+Assistant: أنا هنا للمساعدة. كيف يمكنني مساعدتك اليوم؟
+
+You: ما هي الذكاء الاصطناعي؟
+Assistant: الذكاء الاصطناعي هو محاكاة الذكاء البشري في الآلات.
+
+You: exit
+إنهاء المحادثة. وداعًا!
 ```
 
 ## License
