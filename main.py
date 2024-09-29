@@ -6,7 +6,7 @@ from groq import Groq
 # Create the Groq client
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"), )
 
-# Set the system prompt
+# Set the system prompt yes
 system_prompt = {
     "role": "system",
     "content":
